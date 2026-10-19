@@ -1,5 +1,13 @@
 # TEFCO mockup
 
-Макеты TEFCO.
+Экраны TEFCO: скриншоты того, что выкачено в прод, и макеты. Часть workspace `Tefco` рядом с `platform` и `site`.
+Правила для AI — `AGENTS.md`.
 
-Часть workspace `Tefco` рядом с `platform` и `site`. Правила для AI: `AGENTS.md`.
+## Что где
+
+| Путь | Что |
+|---|---|
+| `est/screens/YYYY-MM-DD/` | экраны блока EST (оценка → договор, Bathroom) на дату релиза: PNG, письма G2, PDF договора, `README.md` с коммитами и описью |
+
+Последний набор — `est/screens/2026-10-19/`. Тот же набор — фреймом «EST · Bathroom · DD.MM (как в проде)» на доске
+Miro tefco_flow; Miro — копия для людей, источник для проверки — этот репозиторий.
